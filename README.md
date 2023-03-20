@@ -25,7 +25,7 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 ## 💻 **Projects**
 | Project | Description | Technologies |
 |---  |---  |---  |
-| [**Solved**]([https://github.com/sirdavy](https://github.com/orhankhanbayov/Solved-Arrogate#readme)) | Our Makers final project. A live-action treasure-hunting game that leads you on an exciting tour of a city neighbourhood.  | React Native, MongoDB, Node.js, Xcode, Android Studio, Google Landmark API and geolocation |
+| [**Solved**](https://github.com/orhankhanbayov/Solved-Arrogate#readme) | Our Makers final project. A live-action treasure-hunting game that leads you on an exciting tour of a city neighbourhood.  | React Native, MongoDB, Node.js, Xcode, Android Studio, Google Landmark API and geolocation |
 | [**Acebook**](https://github.com/sirdavy/acebook-team-water) | During this group project, we were asked to create a Facebook clone. Throughout its course we focused on an Agile working style, using Trello, daily stand-ups and regular retros to guide this MERN project. | NodeJS, React, HTML, CSS, ExpressJS, MongoDB, Cypress, Jest |
 | [**Bank Tech Test**](https://github.com/sirdavy/bank-tech-test) | This was a practice tech test during Week 10 of the Makers course where we had to create a virtual bank. <br> A key focus during this project was to work on my planning and documentation of the project. | Ruby |
 | [**Gilded Rose Tech Test**](https://github.com/sirdavy/gilded-rose-tech-test-ruby) | This is my attempt at the Gilded Rose kata set by Makers Academy; a tech test commonly used to test a dev's ability to read, refactor and extend legacy code. The specifications are here.| Ruby |

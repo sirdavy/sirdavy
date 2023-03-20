@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is working in the TV and Radio industry as a comedy writer and programme development producer.
+
+I have written gags for many high-profile TV series, sketches for big name performers and have created original TV programmes, radio shows and podcasts. Wanting a new challenge, I am now applying my creative thinking, problem-solving and obsession with syntax to software development.
+
+I've put 'Full Stack Software Developer' rather grandly at the top there ⬆️ and, sure, I have learned a huge amount during 16 weeks of bootcamp but I can't pretend to be a seasoned engineer. I can say though, without any hesitation, that I love coding, learning new skills and working in teams of smart people building machines out of words.
 
 <!--
 **sirdavy/sirdavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
